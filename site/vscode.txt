@@ -7,8 +7,5 @@
 <body>
 <h1>Meh!!</h1>
 <p>hello VS code!!</p>
-<ol>
-    <li>fuck off</li>
-</ol>
 </body>
 </html>
